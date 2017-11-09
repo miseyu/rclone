@@ -7,9 +7,9 @@ package webdav_test
 import (
 	"testing"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest/fstests"
-	"github.com/ncw/rclone/webdav"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/fstest/fstests"
+	"github.com/miseyu/rclone/webdav"
 )
 
 func TestSetup(t *testing.T) {

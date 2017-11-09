@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/miseyu/rclone/fs"
 	"github.com/pkg/errors"
 	"github.com/pkg/sftp"
 	"github.com/xanzy/ssh-agent"

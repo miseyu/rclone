@@ -13,9 +13,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/oauthutil"
-	"github.com/ncw/rclone/swift"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/oauthutil"
+	"github.com/miseyu/rclone/swift"
 	swiftLib "github.com/ncw/swift"
 	"github.com/pkg/errors"
 	"golang.org/x/oauth2"

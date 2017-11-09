@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ncw/rclone/cmd"
+	"github.com/miseyu/rclone/cmd"
 	"github.com/spf13/cobra"
 )
 

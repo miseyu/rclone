@@ -6,9 +6,9 @@ package main
 import (
 	"log"
 
-	"github.com/ncw/rclone/cmd"
-	_ "github.com/ncw/rclone/cmd/all" // import all commands
-	_ "github.com/ncw/rclone/fs/all"  // import all fs
+	"github.com/miseyu/rclone/cmd"
+	_ "github.com/miseyu/rclone/cmd/all" // import all commands
+	_ "github.com/miseyu/rclone/fs/all"  // import all fs
 )
 
 func main() {

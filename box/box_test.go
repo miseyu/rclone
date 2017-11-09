@@ -7,9 +7,9 @@ package box_test
 import (
 	"testing"
 
-	"github.com/ncw/rclone/box"
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest/fstests"
+	"github.com/miseyu/rclone/box"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/fstest/fstests"
 )
 
 func TestSetup(t *testing.T) {

@@ -13,7 +13,7 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/miseyu/rclone/fs"
 	"github.com/pkg/errors"
 	qs "github.com/yunify/qingstor-sdk-go/service"
 )

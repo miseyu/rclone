@@ -15,7 +15,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/miseyu/rclone/fs"
 	"github.com/pkg/errors"
 	"google.golang.org/appengine/log"
 )

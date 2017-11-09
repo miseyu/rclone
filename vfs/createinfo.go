@@ -3,7 +3,7 @@ package vfs
 import (
 	"time"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/miseyu/rclone/fs"
 )
 
 // info to create a new object

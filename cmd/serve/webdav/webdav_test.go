@@ -12,8 +12,8 @@ import (
 	"os/exec"
 	"testing"
 
-	"github.com/ncw/rclone/fstest"
-	_ "github.com/ncw/rclone/local"
+	"github.com/miseyu/rclone/fstest"
+	_ "github.com/miseyu/rclone/local"
 	"github.com/stretchr/testify/assert"
 )
 

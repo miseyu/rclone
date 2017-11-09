@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/ncw/rclone/dropbox/dbhash"
+	"github.com/miseyu/rclone/dropbox/dbhash"
 	"github.com/stretchr/testify/assert"
 )
 

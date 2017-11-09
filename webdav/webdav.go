@@ -28,10 +28,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/pacer"
-	"github.com/ncw/rclone/rest"
-	"github.com/ncw/rclone/webdav/api"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/pacer"
+	"github.com/miseyu/rclone/rest"
+	"github.com/miseyu/rclone/webdav/api"
 	"github.com/pkg/errors"
 )
 

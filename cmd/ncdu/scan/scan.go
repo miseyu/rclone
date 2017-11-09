@@ -5,7 +5,7 @@ import (
 	"path"
 	"sync"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/miseyu/rclone/fs"
 	"github.com/pkg/errors"
 )
 

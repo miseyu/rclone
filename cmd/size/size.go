@@ -3,8 +3,8 @@ package size
 import (
 	"fmt"
 
-	"github.com/ncw/rclone/cmd"
-	"github.com/ncw/rclone/fs"
+	"github.com/miseyu/rclone/cmd"
+	"github.com/miseyu/rclone/fs"
 	"github.com/spf13/cobra"
 )
 

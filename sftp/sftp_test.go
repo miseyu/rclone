@@ -7,9 +7,9 @@ package sftp_test
 import (
 	"testing"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest/fstests"
-	"github.com/ncw/rclone/sftp"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/fstest/fstests"
+	"github.com/miseyu/rclone/sftp"
 )
 
 func TestSetup(t *testing.T) {

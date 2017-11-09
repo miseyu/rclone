@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	_ "github.com/ncw/rclone/fs/all" // import all fs
-	"github.com/ncw/rclone/fstest"
+	"github.com/miseyu/rclone/fs"
+	_ "github.com/miseyu/rclone/fs/all" // import all fs
+	"github.com/miseyu/rclone/fstest"
 )
 
 type remoteConfig struct {

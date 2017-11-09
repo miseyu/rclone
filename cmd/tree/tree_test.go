@@ -5,12 +5,12 @@ import (
 	"testing"
 
 	"github.com/a8m/tree"
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	_ "github.com/ncw/rclone/local"
+	_ "github.com/miseyu/rclone/local"
 )
 
 func TestTree(t *testing.T) {

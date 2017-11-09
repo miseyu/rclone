@@ -14,9 +14,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ncw/rclone/box/api"
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/rest"
+	"github.com/miseyu/rclone/box/api"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/rest"
 	"github.com/pkg/errors"
 )
 

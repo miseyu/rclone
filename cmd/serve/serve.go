@@ -3,9 +3,9 @@ package serve
 import (
 	"errors"
 
-	"github.com/ncw/rclone/cmd"
-	"github.com/ncw/rclone/cmd/serve/http"
-	"github.com/ncw/rclone/cmd/serve/webdav"
+	"github.com/miseyu/rclone/cmd"
+	"github.com/miseyu/rclone/cmd/serve/http"
+	"github.com/miseyu/rclone/cmd/serve/webdav"
 	"github.com/spf13/cobra"
 )
 

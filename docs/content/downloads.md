@@ -38,7 +38,7 @@ Rclone Download {{< version >}}
   * Solaris
     * [AMD64 - 64 Bit](https://downloads.rclone.org/rclone-{{< version >}}-solaris-amd64.zip)
 
-You can also find a [mirror of the downloads on github](https://github.com/ncw/rclone/releases/tag/{{< version >}}).
+You can also find a [mirror of the downloads on github](https://github.com/miseyu/rclone/releases/tag/{{< version >}}).
 
 Beta releases
 =============
@@ -49,7 +49,7 @@ to master.  Note these are named like
     {Version Tag}-{Commit Number}-g{Git Commit Hash}
 
 You can match the `Git Commit Hash` up with the [git
-log](https://github.com/ncw/rclone/commits/master).  The most recent
+log](https://github.com/miseyu/rclone/commits/master).  The most recent
 release will have the largest `Version Tag` and `Commit Number` and
 will normally be at the end of the list.
 

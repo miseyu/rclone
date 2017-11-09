@@ -19,10 +19,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ncw/rclone/b2/api"
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/pacer"
-	"github.com/ncw/rclone/rest"
+	"github.com/miseyu/rclone/b2/api"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/pacer"
+	"github.com/miseyu/rclone/rest"
 	"github.com/pkg/errors"
 )
 

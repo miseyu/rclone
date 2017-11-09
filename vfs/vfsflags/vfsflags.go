@@ -2,7 +2,7 @@
 package vfsflags
 
 import (
-	"github.com/ncw/rclone/vfs"
+	"github.com/miseyu/rclone/vfs"
 	"github.com/spf13/pflag"
 )
 

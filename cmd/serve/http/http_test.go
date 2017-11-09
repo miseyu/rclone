@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	_ "github.com/ncw/rclone/local"
+	"github.com/miseyu/rclone/fs"
+	_ "github.com/miseyu/rclone/local"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

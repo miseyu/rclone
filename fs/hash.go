@@ -9,7 +9,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/ncw/rclone/dropbox/dbhash"
+	"github.com/miseyu/rclone/dropbox/dbhash"
 	"github.com/pkg/errors"
 )
 

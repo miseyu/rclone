@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ncw/rclone/fs"
+	"github.com/miseyu/rclone/fs"
 	"github.com/pkg/errors"
 	"github.com/yunify/qingstor-sdk-go/config"
 	qsErr "github.com/yunify/qingstor-sdk-go/request/errors"

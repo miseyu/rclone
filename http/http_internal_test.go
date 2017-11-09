@@ -14,9 +14,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/fstest"
-	"github.com/ncw/rclone/rest"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/fstest"
+	"github.com/miseyu/rclone/rest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

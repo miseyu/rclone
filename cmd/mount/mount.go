@@ -11,10 +11,10 @@ import (
 
 	"bazil.org/fuse"
 	fusefs "bazil.org/fuse/fs"
-	"github.com/ncw/rclone/cmd/mountlib"
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/vfs"
-	"github.com/ncw/rclone/vfs/vfsflags"
+	"github.com/miseyu/rclone/cmd/mountlib"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/vfs"
+	"github.com/miseyu/rclone/vfs/vfsflags"
 	"github.com/pkg/errors"
 )
 

@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	_ "github.com/ncw/rclone/fs/all" // import all the file systems
-	"github.com/ncw/rclone/fstest"
+	_ "github.com/miseyu/rclone/fs/all" // import all the file systems
+	"github.com/miseyu/rclone/fstest"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

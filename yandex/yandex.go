@@ -13,9 +13,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	"github.com/ncw/rclone/oauthutil"
-	yandex "github.com/ncw/rclone/yandex/api"
+	"github.com/miseyu/rclone/fs"
+	"github.com/miseyu/rclone/oauthutil"
+	yandex "github.com/miseyu/rclone/yandex/api"
 	"github.com/pkg/errors"
 	"golang.org/x/oauth2"
 )

@@ -15,10 +15,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ncw/rclone/fs"
-	_ "github.com/ncw/rclone/fs/all" // import all the file systems
-	"github.com/ncw/rclone/fstest"
-	"github.com/ncw/rclone/vfs"
+	"github.com/miseyu/rclone/fs"
+	_ "github.com/miseyu/rclone/fs/all" // import all the file systems
+	"github.com/miseyu/rclone/fstest"
+	"github.com/miseyu/rclone/vfs"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

@@ -3,9 +3,9 @@ package cryptdecode
 import (
 	"fmt"
 
-	"github.com/ncw/rclone/cmd"
-	"github.com/ncw/rclone/crypt"
-	"github.com/ncw/rclone/fs"
+	"github.com/miseyu/rclone/cmd"
+	"github.com/miseyu/rclone/crypt"
+	"github.com/miseyu/rclone/fs"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 )

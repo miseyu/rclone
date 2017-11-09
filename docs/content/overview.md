@@ -121,18 +121,18 @@ operations more efficient.
 
 | Name                         | Purge | Copy | Move | DirMove | CleanUp | ListR | StreamUpload |
 | ---------------------------- |:-----:|:----:|:----:|:-------:|:-------:|:-----:|:------------:|
-| Amazon Drive                 | Yes   | No   | Yes  | Yes     | No [#575](https://github.com/ncw/rclone/issues/575) | No  | No  |
+| Amazon Drive                 | Yes   | No   | Yes  | Yes     | No [#575](https://github.com/miseyu/rclone/issues/575) | No  | No  |
 | Amazon S3                    | No    | Yes  | No   | No      | No      | Yes   | Yes          |
 | Backblaze B2                 | No    | No   | No   | No      | Yes     | Yes   | Yes          |
-| Box                          | Yes   | Yes  | Yes  | Yes     | No [#575](https://github.com/ncw/rclone/issues/575) | No  | Yes |
-| Dropbox                      | Yes   | Yes  | Yes  | Yes     | No [#575](https://github.com/ncw/rclone/issues/575) | No  | Yes |
+| Box                          | Yes   | Yes  | Yes  | Yes     | No [#575](https://github.com/miseyu/rclone/issues/575) | No  | Yes |
+| Dropbox                      | Yes   | Yes  | Yes  | Yes     | No [#575](https://github.com/miseyu/rclone/issues/575) | No  | Yes |
 | FTP                          | No    | No   | Yes  | Yes     | No      | No    | Yes          |
 | Google Cloud Storage         | Yes   | Yes  | No   | No      | No      | Yes   | Yes          |
 | Google Drive                 | Yes   | Yes  | Yes  | Yes     | Yes     | No    | Yes          |
 | HTTP                         | No    | No   | No   | No      | No      | No    | No           |
 | Hubic                        | Yes † | Yes  | No   | No      | No      | Yes   | Yes          |
 | Microsoft Azure Blob Storage | Yes   | Yes  | No   | No      | No      | Yes   | No           |
-| Microsoft OneDrive           | Yes   | Yes  | Yes  | No [#197](https://github.com/ncw/rclone/issues/197) | No [#575](https://github.com/ncw/rclone/issues/575) | No | No |
+| Microsoft OneDrive           | Yes   | Yes  | Yes  | No [#197](https://github.com/miseyu/rclone/issues/197) | No [#575](https://github.com/miseyu/rclone/issues/575) | No | No |
 | Openstack Swift              | Yes † | Yes  | No   | No      | No      | Yes   | Yes          |
 | pCloud                       | Yes   | Yes  | Yes  | Yes     | Yes     | No    | No           |
 | QingStor                     | No    | Yes  | No   | No      | No      | Yes   | No           |

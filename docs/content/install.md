@@ -73,13 +73,13 @@ Run `rclone config` to setup. See [rclone config docs](/docs/) for more details.
 Make sure you have at least [Go](https://golang.org/) 1.6 installed.
 Make sure your `GOPATH` is set, then:
 
-    go get -u -v github.com/ncw/rclone
+    go get -u -v github.com/miseyu/rclone
 
 and this will build the binary in `$GOPATH/bin`.  If you have built
 rclone before then you will want to update its dependencies first with
 this
 
-    go get -u -v github.com/ncw/rclone/...
+    go get -u -v github.com/miseyu/rclone/...
 
 ## Installation with Ansible ##
 
